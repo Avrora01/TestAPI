@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M417P6mJzoCSZB7NUaVAcjv4s3ewnBMUbgpdqbBZGoTxoha1tfOpPusitKQFu0OVhkbils8wiVyIcAZzrlCrqQ==",
+  "dgSpecHash": "ofJluIDhNUn9x9rWQgGEWdFpFt7DD/5giV/9xYeFq1AKsUmZoucSs23yaTrOqNKwkEUYmvkbkHnjHrj91Cj50Q==",
   "success": true,
-  "projectFilePath": "c:\\Users\\ssuhr\\OneDrive\\Рабочий стол\\Новая папка (5)\\TestApi\\TestApi.csproj",
+  "projectFilePath": "C:\\Users\\ssuhr\\OneDrive\\Рабочий стол\\Новая папка (5)\\TestApi\\TestApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ssuhr\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.1.0\\microsoft.aspnetcore.mvc.versioning.5.1.0.nupkg.sha512",
     "C:\\Users\\ssuhr\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning.apiexplorer\\5.1.0\\microsoft.aspnetcore.mvc.versioning.apiexplorer.5.1.0.nupkg.sha512",

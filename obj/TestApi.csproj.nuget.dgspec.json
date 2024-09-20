@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ssuhr\\OneDrive\\Рабочий стол\\Новая папка (5)\\TestApi\\TestApi.csproj": {}
+    "C:\\Users\\ssuhr\\OneDrive\\Рабочий стол\\Новая папка (5)\\TestApi\\TestApi.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ssuhr\\OneDrive\\Рабочий стол\\Новая папка (5)\\TestApi\\TestApi.csproj": {
+    "C:\\Users\\ssuhr\\OneDrive\\Рабочий стол\\Новая папка (5)\\TestApi\\TestApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ssuhr\\OneDrive\\Рабочий стол\\Новая папка (5)\\TestApi\\TestApi.csproj",
+        "projectUniqueName": "C:\\Users\\ssuhr\\OneDrive\\Рабочий стол\\Новая папка (5)\\TestApi\\TestApi.csproj",
         "projectName": "TestApi",
-        "projectPath": "c:\\Users\\ssuhr\\OneDrive\\Рабочий стол\\Новая папка (5)\\TestApi\\TestApi.csproj",
+        "projectPath": "C:\\Users\\ssuhr\\OneDrive\\Рабочий стол\\Новая папка (5)\\TestApi\\TestApi.csproj",
         "packagesPath": "C:\\Users\\ssuhr\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ssuhr\\OneDrive\\Рабочий стол\\Новая папка (5)\\TestApi\\obj\\",
+        "outputPath": "C:\\Users\\ssuhr\\OneDrive\\Рабочий стол\\Новая папка (5)\\TestApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

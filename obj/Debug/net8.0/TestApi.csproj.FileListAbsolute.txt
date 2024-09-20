@@ -33,3 +33,4 @@ c:\Users\ssuhr\OneDrive\Рабочий стол\Новая папка (5)\TestAp
 c:\Users\ssuhr\OneDrive\Рабочий стол\Новая папка (5)\TestApi\bin\Debug\net8.0\TestApi.pdb
 c:\Users\ssuhr\OneDrive\Рабочий стол\Новая папка (5)\TestApi\obj\Debug\net8.0\TestApi.genruntimeconfig.cache
 c:\Users\ssuhr\OneDrive\Рабочий стол\Новая папка (5)\TestApi\obj\Debug\net8.0\ref\TestApi.dll
+c:\Users\ssuhr\OneDrive\Рабочий стол\Новая папка (5)\TestApi\obj\Debug\net8.0\TestApi.sourcelink.json
